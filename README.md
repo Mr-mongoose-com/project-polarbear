@@ -6,4 +6,4 @@
 
 PROJECT POLARBEAR!
 
-All files should be extracted to your Raspberry Pi Desktop
+For instructions, look at the build guide.
