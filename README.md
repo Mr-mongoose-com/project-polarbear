@@ -6,4 +6,4 @@
 
 PROJECT POLARBEAR!
 
-For instructions on how to make the one, the brilliant, Project Polarbear, look at the build guide.
+For instructions on how to make the one, the brilliant, Project Polarbear; look at the build guide.
